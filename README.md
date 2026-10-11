@@ -61,3 +61,11 @@ Project dalam pengembangan.
 
 ### 6. Web Dashboard Admin
 ![Dashboard web admin](docs/6224160417051775825.jpg).
+
+##  Identitas Pembuat
+
+- **Nama:** Makailla Cikal F.P.K
+- **Nomor Absen:** 22
+- **Kelas:** XII PPLG 2
+- **Mata Pelajaran:** Mobile
+- **Guru Pengampu:** Bapak Bangun
