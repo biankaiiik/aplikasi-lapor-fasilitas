@@ -48,7 +48,7 @@ Project dalam pengembangan.
 ![Dashboard pengguna](docs/6224160417051775821.jpg)
 
 ### 3. Daftar Laporan dan Status
-![Daftar laporan](docs/6224160417051775820(1).jpg).
+![Daftar laporan](docs/6224160417051775820.jpg).
 
 ### 4. Dashboard Register
 ![Dashboard register](docs/6224160417051775819.jpg).
@@ -58,4 +58,4 @@ Project dalam pengembangan.
 
 ### 5. Web Admin
 ![Dashboard web admin](docs/6224160417051775822.jpg).
-![Dashboard web admin](docs/6224160417051775825(1).jpg).
+![Dashboard web admin](docs/6224160417051775825.jpg).
