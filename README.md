@@ -38,3 +38,24 @@ Jangan gunakan password asli atau data pribadi dalam repository. Gunakan konfigu
 
 ## Status
 Project dalam pengembangan.
+
+## 📸 Screenshot Aplikasi
+
+### 1. Login Android
+![Halaman login aplikasi](docs/6224160417051775823)
+
+### 2. Dashboard Pengguna
+![Dashboard pengguna](docs/6224160417051775821)
+
+### 3. Daftar Laporan dan Status
+![Daftar laporan](docs/6224160417051775820 (1))
+
+### 4. Dashboard Register
+![Dashboard register](docs/6224160417051775819)
+
+### 5. Dashboard Admin
+![Dashboard admin](docs/6224160417051775824)
+
+### 5. Web Admin
+![Dashboard web admin](docs/6224160417051775822)
+![Dashboard web admin](docs/6224160417051775825 (1))
