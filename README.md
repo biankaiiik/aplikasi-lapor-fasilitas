@@ -56,6 +56,8 @@ Project dalam pengembangan.
 ### 5. Dashboard Admin
 ![Dashboard admin](docs/6224160417051775824.jpg).
 
-### 5. Web Admin
-![Dashboard web admin](docs/6224160417051775822.jpg).
+### 5. Web Login Admin
+![Login web admin](docs/6224160417051775822.jpg).
+
+### 6. Web Dashboard Admin
 ![Dashboard web admin](docs/6224160417051775825.jpg).
