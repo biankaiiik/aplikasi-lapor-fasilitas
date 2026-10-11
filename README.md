@@ -42,20 +42,20 @@ Project dalam pengembangan.
 ## 📸 Screenshot Aplikasi
 
 ### 1. Login Android
-![Halaman login aplikasi](docs/6224160417051775823)
+![Halaman login aplikasi](docs/6224160417051775823)jpg
 
 ### 2. Dashboard Pengguna
-![Dashboard pengguna](docs/6224160417051775821)
+![Dashboard pengguna](docs/6224160417051775821)jpg
 
 ### 3. Daftar Laporan dan Status
-![Daftar laporan](docs/6224160417051775820 (1))
+![Daftar laporan](docs/6224160417051775820 (1)).jpg
 
 ### 4. Dashboard Register
-![Dashboard register](docs/6224160417051775819)
+![Dashboard register](docs/6224160417051775819)jpg
 
 ### 5. Dashboard Admin
-![Dashboard admin](docs/6224160417051775824)
+![Dashboard admin](docs/6224160417051775824)jpg
 
 ### 5. Web Admin
-![Dashboard web admin](docs/6224160417051775822)
-![Dashboard web admin](docs/6224160417051775825 (1))
+![Dashboard web admin](docs/6224160417051775822)jpg
+![Dashboard web admin](docs/6224160417051775825 (1))jpg
